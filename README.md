@@ -1,10 +1,14 @@
-Netflix Excel Dashboard
+## Dashboard Preview
 
-Overview
+![Netflix Dashboard](Screenshot%20excel.png)
+
+# Netflix Excel Dashboard
+
+## Overview
 
 This project presents an interactive Netflix Dashboard built using Microsoft Excel. The dashboard analyzes Netflix content and provides insights into ratings, countries, release years, and content types.
 
-Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
